@@ -1,0 +1,19 @@
+﻿@model kursovProekt.Models.Exam
+
+@{
+    ViewBag.Title = "Publish";
+}
+
+<h2>Publish</h2>
+
+@using (Html.BeginForm("Grade", "Exam"))
+{
+    <div>
+        <h4>Exam</h4>
+        @foreach (var question in Model.Questions)
+        {
+            Html.RenderPartial("_question", question);
+            <br />
+        }
+    </div>
+}

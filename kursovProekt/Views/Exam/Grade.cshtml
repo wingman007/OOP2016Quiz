@@ -1,0 +1,21 @@
+﻿@model kursovProekt.Models.Grade
+@{
+    ViewBag.Title = "Grade";
+}
+
+<h2>Grade</h2>
+
+
+Exam Name : @Model.Exam.Name
+<br>
+Total Quesionts :@Model.Exam.Questions.Count
+<br>
+Your Score : @Model.Score  / @Model.Exam.TotalPoints
+<br />
+@foreach (var question in Model.Exam.Questions)
+  {
+      Html.RenderPartial("_question", question);
+  }
+
+ 
+

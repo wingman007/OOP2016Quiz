@@ -1,0 +1,165 @@
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\bin\kursovProekt.dll.config
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\bin\kursovProekt.dll
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\bin\kursovProekt.pdb
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\bin\Antlr3.Runtime.dll
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\bin\EntityFramework.dll
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\bin\EntityFramework.SqlServer.dll
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\bin\Microsoft.Owin.dll
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\bin\Microsoft.Owin.Security.dll
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\bin\Microsoft.Owin.Security.Google.dll
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\bin\Microsoft.Web.Infrastructure.dll
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\bin\Newtonsoft.Json.dll
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\bin\Owin.dll
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\bin\System.Web.Helpers.dll
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\bin\System.Web.Mvc.dll
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\bin\System.Web.Optimization.dll
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\bin\System.Web.Razor.dll
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\bin\System.Web.WebPages.Deployment.dll
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\bin\System.Web.WebPages.dll
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\bin\System.Web.WebPages.Razor.dll
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\bin\WebGrease.dll
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\bin\System.Web.Helpers.xml
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\bin\System.Web.Mvc.xml
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\bin\System.Web.Optimization.xml
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\bin\System.Web.Razor.xml
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\bin\System.Web.WebPages.xml
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\bin\System.Web.WebPages.Deployment.xml
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\bin\System.Web.WebPages.Razor.xml
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\bin\Newtonsoft.Json.xml
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\bin\Antlr3.Runtime.pdb
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\bin\EntityFramework.xml
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\bin\EntityFramework.SqlServer.xml
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\bin\Microsoft.Owin.xml
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\bin\Microsoft.Owin.Security.xml
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\bin\Microsoft.Owin.Security.Google.xml
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\obj\Debug\kursovProekt.csprojResolveAssemblyReference.cache
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\obj\Debug\kursovProekt.dll
+c:\users\stanimir\documents\visual studio 2013\Projects\kursovProekt\kursovProekt\obj\Debug\kursovProekt.pdb
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\bin\kursovProekt.dll.config
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\bin\kursovProekt.dll
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\bin\kursovProekt.pdb
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\bin\Antlr3.Runtime.dll
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\bin\EntityFramework.dll
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\bin\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\bin\Microsoft.Owin.dll
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\bin\Microsoft.Owin.Security.dll
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\bin\Newtonsoft.Json.dll
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\bin\Owin.dll
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\bin\System.Web.Helpers.dll
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\bin\System.Web.Mvc.dll
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\bin\System.Web.Optimization.dll
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\bin\System.Web.Razor.dll
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\bin\System.Web.WebPages.dll
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\bin\WebGrease.dll
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\bin\System.Web.Helpers.xml
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\bin\System.Web.Mvc.xml
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\bin\System.Web.Optimization.xml
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\bin\System.Web.Razor.xml
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\bin\System.Web.WebPages.xml
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\bin\Newtonsoft.Json.xml
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\bin\Antlr3.Runtime.pdb
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\bin\EntityFramework.xml
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\bin\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\bin\Microsoft.Owin.xml
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\bin\Microsoft.Owin.Security.xml
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\obj\Debug\kursovProekt.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\obj\Debug\kursovProekt.dll
+C:\Users\PC\Desktop\kursovProekt\kursovProekt\obj\Debug\kursovProekt.pdb
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\bin\kursovProekt.dll.config
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\bin\kursovProekt.dll
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\bin\kursovProekt.pdb
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\bin\Antlr3.Runtime.dll
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\bin\EntityFramework.dll
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\bin\EntityFramework.SqlServer.dll
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\bin\Microsoft.Owin.dll
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\bin\Microsoft.Owin.Security.dll
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\bin\Newtonsoft.Json.dll
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\bin\Owin.dll
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\bin\System.Web.Helpers.dll
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\bin\System.Web.Mvc.dll
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\bin\System.Web.Optimization.dll
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\bin\System.Web.Razor.dll
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\bin\System.Web.WebPages.dll
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\bin\System.Web.WebPages.Razor.dll
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\bin\WebGrease.dll
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\bin\System.Web.Helpers.xml
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\bin\System.Web.Mvc.xml
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\bin\System.Web.Optimization.xml
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\bin\System.Web.Razor.xml
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\bin\System.Web.WebPages.xml
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\bin\System.Web.WebPages.Razor.xml
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\bin\Newtonsoft.Json.xml
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\bin\Antlr3.Runtime.pdb
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\bin\EntityFramework.xml
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\bin\EntityFramework.SqlServer.xml
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\bin\Microsoft.Owin.xml
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\bin\Microsoft.Owin.Security.xml
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\obj\Debug\kursovProekt.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\obj\Debug\kursovProekt.dll
+C:\Users\Martin\Desktop\kursovProekt\kursovProekt\obj\Debug\kursovProekt.pdb
