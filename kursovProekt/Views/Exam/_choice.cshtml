@@ -1,0 +1,16 @@
+﻿@model kursovProekt.Models.Choice
+
+@if (Model.IsSelected && Model.IsAnswer)
+{
+    <div style="background-color:Purple">
+        @Html.RadioButton("Exam.Questions[" + Model.Question.OrderNumber + "].Choices[0].ID", Model.ID)
+        @Model.Text
+    </div>
+}
+else
+{
+    <div>
+        @Html.RadioButton("Exam.Questions[" + Model.Question.OrderNumber + "].Choices[0].ID", Model.ID)
+        @Model.Text
+    </div>
+}

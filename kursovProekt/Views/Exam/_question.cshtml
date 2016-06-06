@@ -1,0 +1,15 @@
+﻿@model kursovProekt.Models.Question
+
+<div class="question">
+    @Html.Hidden("Exam.Questions[" + Model.OrderNumber + "].ID", Model.ID)
+    @Model.Text
+    <div class="points">
+        (@Model.Point) Точки
+    </div>
+
+    @foreach (var choice in Model.Choices)
+    {
+        Html.RenderPartial("_choice", choice);
+    }
+</div>
+
